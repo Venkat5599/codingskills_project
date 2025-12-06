@@ -1,0 +1,2 @@
+1 sunny 78.5
+2 laddu 40
