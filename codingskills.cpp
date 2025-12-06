@@ -262,8 +262,8 @@ int main() {
 
     cout << "Logged in as: " << currentRole << endl;
 
-    if (currentRole == "admin") adminMenu();
-    else if (currentRole == "staff") staffMenu();
+    if (currentRole == "ADMIN") adminMenu();
+    else if (currentRole == "STAFF") staffMenu();
     else guestMenu();
 
     return 0;
